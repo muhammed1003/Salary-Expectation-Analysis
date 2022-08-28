@@ -17,6 +17,7 @@ The data was obtained from kaggle.com
 ## Visualization 
 
 The dashboard was created on Power BI Desktop
+
 ![salary expectation analysis](https://user-images.githubusercontent.com/112221807/187085245-1634c253-c7ca-40ae-8d2f-0f06ba335edc.png)
 
 ## LINK 
